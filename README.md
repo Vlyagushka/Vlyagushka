@@ -50,9 +50,3 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=melnichukmykola&theme=tokyonight" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=melnichukmykola&theme=tokyonight" />
 </p>
-
-> Коля:
-Влад, можеш піти до свєти?
-
-> Коля:
-Я хочу побути з дашою
