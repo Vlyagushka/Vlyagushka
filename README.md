@@ -11,7 +11,9 @@
 
 <p> About Me 🚀 </p>
 I am an ambitious, goal-oriented, and highly responsible 18-year-old Full-Stack Developer ready to take on new challenges and contribute to exciting projects. I am deeply passionate about coding, quick to learn new technologies, and always striving for excellence in my work.
+
 <p><----------------------------------------------------------------------------------------------------------------------------------------------------------></p>
+
 <p>Education</p>
 <p>College Degree: Software Engineering (In Progress)</p>
 
