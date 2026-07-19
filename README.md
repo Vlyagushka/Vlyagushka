@@ -9,12 +9,8 @@
   <a href="https://t.me/Vlagushka"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-## 🧑‍💻 Про мене
-
-Я — Frontend розробник. 🇺🇦  
-Закінчив курс Frontend в [Mate Academy](https://mate.academy)  
-Маю велику кількість проєктів, у яких використовую сучасні технології та підходи.  
-Постійно вдосконалюю навички та розвиваюся як розробник.
+About Me
+🚀 I am an ambitious, goal-oriented, and highly responsible 18-year-old Full-Stack Developer ready to take on new challenges and contribute to exciting projects. I am deeply passionate about coding, quick to learn new technologies, and always striving for excellence in my work.
 
 - 🔭 Працюю над реальними та pet-проєктами
 - 🌱 Вивчаю пов'язані теми backend-розробки
