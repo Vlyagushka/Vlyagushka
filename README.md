@@ -36,7 +36,7 @@ Certifications: Graduate of the it-elit online tech school with diplomas in adva
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 
-## 📊 Моя статистика :
+## 📊 My statistics :
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=melnichukmykola&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
