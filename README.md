@@ -19,11 +19,10 @@ I am an ambitious, goal-oriented, and highly responsible 18-year-old Full-Stack 
 
 Certifications: Graduate of the it-elit online tech school with diplomas in advanced web and software development.
 
-- 🔭 Працюю над реальними та pet-проєктами
-- 🌱 Вивчаю пов'язані теми backend-розробки
-- 📫 Як зв’язатися зі мною: [Telegram](https://t.me/kolya2)
+- 🔭 Working on real and pet projects
+- 🌱 Studying related backend development topics
 
-## 🚀 Технології
+## Technologies
 
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
