@@ -1,4 +1,4 @@
-> Коля:
+
 <p align="center">
   <img src="https://github.com/melnichukmykola/MelnichukMykola/blob/main/assets/animation.gif?raw=true" alt="Developer Skills" />
 </p>
