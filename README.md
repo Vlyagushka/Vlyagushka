@@ -12,7 +12,7 @@
 <p> About Me 🚀 </p>
 I am an ambitious, goal-oriented, and highly responsible 18-year-old Full-Stack Developer ready to take on new challenges and contribute to exciting projects. I am deeply passionate about coding, quick to learn new technologies, and always striving for excellence in my work.
 
-Education
+<p>Education</p>
 College Degree: Software Engineering (In Progress)
 
 Certifications: Graduate of the it-elit online tech school with diplomas in advanced web and software development.
