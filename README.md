@@ -9,8 +9,8 @@
   <a href="https://t.me/Vlagushka"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
-About Me
-🚀 I am an ambitious, goal-oriented, and highly responsible 18-year-old Full-Stack Developer ready to take on new challenges and contribute to exciting projects. I am deeply passionate about coding, quick to learn new technologies, and always striving for excellence in my work.
+About Me 🚀
+I am an ambitious, goal-oriented, and highly responsible 18-year-old Full-Stack Developer ready to take on new challenges and contribute to exciting projects. I am deeply passionate about coding, quick to learn new technologies, and always striving for excellence in my work.
 
 - 🔭 Працюю над реальними та pet-проєктами
 - 🌱 Вивчаю пов'язані теми backend-розробки
