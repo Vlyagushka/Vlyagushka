@@ -3,7 +3,7 @@
   <img src="https://github.com/melnichukmykola/MelnichukMykola/blob/main/assets/animation.gif?raw=true" alt="Developer Skills" />
 </p>
 
-<h1 align="center">Привіт 👋 Мене звуть Микола!</h1>
+<h1 align="center">Hello, my name is Lyagushka.</h1>
 
 <p align="center">
   <a href="https://t.me/kolya2"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
