@@ -6,7 +6,7 @@
 <h1 align="center">Hello, my name is Lyagushka.</h1>
 
 <p align="center">
-  <a href="https://t.me/kolya2"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/Vlagushka"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" /></a>
 </p>
 
 ## 🧑‍💻 Про мене
